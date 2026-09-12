@@ -1,5 +1,3 @@
-Select all text below, copy it, and paste it into your GitHub editor to update your `README.md`:
-
 # OverTheWire: Bandit Master Reference Guide (Levels 0 → 34)
 
 A comprehensive technical reference, cheat sheet, and study guide covering Linux command-line operations, file system navigation, network security, privilege escalation, and Git analysis for the OverTheWire Bandit wargame.
